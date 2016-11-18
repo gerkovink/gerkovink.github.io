@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: {{ gerkovink.github.io }}{{ site.baseurl }}/sitemap.xml
