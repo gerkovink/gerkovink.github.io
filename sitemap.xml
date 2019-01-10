@@ -33,7 +33,16 @@
   </url>
   
   <url>
+    <loc>https://gerkovink.github.io/docs/resampling_vink/</loc>
+  </url>
+  
+  <url>
     <loc>https://gerkovink.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gerkovink.github.io/docs/</loc>
     <priority>0</priority>
   </url>
   
