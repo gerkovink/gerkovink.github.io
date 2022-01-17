@@ -6,6 +6,8 @@ draft: false
 
 ---
 
+![](images/pubdom.png)
+
 #### `mice` in `R`
 I actively develop for package *mice* in *R*.
 
