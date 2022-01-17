@@ -10,7 +10,7 @@ draft: false
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
 - [Thom Volker](https://thomvolker.github.io) [Researcher]
-- [Anais Fopma](https://github.com/anaisfopma) [Graduate Student]
+- [Anaïs Fopma](https://github.com/anaisfopma) [Graduate Student]
 
 ---
 
