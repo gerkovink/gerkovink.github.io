@@ -47,12 +47,10 @@ customJS = []
 # Social links
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/gerkovink"
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://nl.linkedin.com/in/gerko-vink-670b4017"
 [[params.social]]
@@ -65,7 +63,6 @@ weight = 4
 url = "mailto:G.Vink@uu.nl"
 [[params.social]]
 name = "Twitter"
-icon = "fa fa-2x fa-twitter"
 weight = 5
 url = "https://twitter.com/OkregK"
 
