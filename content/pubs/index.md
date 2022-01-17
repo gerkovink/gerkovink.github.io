@@ -29,7 +29,7 @@ draft: false
 
 ---
 
-For a more up-to date overview of my publications, see my [CV](../cv/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
+For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
 #### Selection of publications
 - Volker, T.B.; **Vink, G** (2021). Anony*mice*d Shareable Data: Using `mice` to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. [link](https://doi.org/10.3390/psych3040045)
