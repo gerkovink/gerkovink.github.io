@@ -5,7 +5,7 @@ draft: false
 ---
 
 ---
-#### Meet my research team:
+#### Meet the research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
