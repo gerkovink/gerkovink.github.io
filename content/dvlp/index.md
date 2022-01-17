@@ -29,7 +29,3 @@ The mice package contains functions to:
 #### `shinyMICE` in `RShiny`
 I am the originator of the *shinyMICE* project in *R*. Shinymice is a model building and evaluation suite for multiple imputation models.
 
----
-
-#### `BAMI` in `R`
-I am the creator of *BAMI* in *R*

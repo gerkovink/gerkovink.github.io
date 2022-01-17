@@ -5,20 +5,17 @@ draft: false
 ---
 
 ---
-
-#### Meet the research team:
+#### Meet my research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
-- [Hanne Oberman](https://github.com/hanneoberman) [Researcher]
-- [Thom Volker]()
-- [Paulina von Stackelberg](https://github.com/paulinavonstackelberg)[Graduate Student]
-- [Chris Slewe][Research Assistant]
-
+- [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
+- [Thom Volker](https://thomvolker.github.io) [Researcher]
+- [Anais Fopma](https://github.com/anaisfopma) [Graduate Student]
 
 ---
 
 #### Selection of submitted/working papers
-- Towards a standardised evaluation of missing data methods.
+- Towards a standardised evaluation of missing data methods. [pdf](https://www.gerkovink.com/published/[working]%20Towards%20a%20standardized%20evaluation%20of%20multiple%20imputation%20routines.pdf)
 - [with Mingyang Cai] A note on imputing squares via polynomial combination approach.
 - [with Mingyang Cai and Stef van Buuren] Multiple imputation for individual causal effects.
 - [with Mingyang Cai and Stef van Buuren] Predictive Mean matching based on Canonical Regression Analysis.
@@ -31,8 +28,11 @@ draft: false
 
 ---
 
-#### Published
+For a more up-to date overview of my publications, see my [CV](../cv/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
----
+#### Selection of publications
+- Volker, T.B.; **Vink, G** (2021). Anony*mice*d Shareable Data: Using `mice` to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. [link](https://doi.org/10.3390/psych3040045)
+- **G. Vink** (2015). Restrictive Imputation of Incomplete Survey Data. ISBN: 978-90-393-6300-3. [pdf](https://www.gerkovink.com/published/[2015]%20Restrictive%20Imputation%20of%20Incomplete%20Survey%20Data.pdf)
 
-See [my Curriculum Vitae](https://www.gerkovink.com/cv/vink.pdf), [my GitHub repo](https://github.com/gerkovink) or [my Google Scholar page](https://scholar.google.nl/citations?hl=en&user=RDZWJ6AAAAAJ) for a more up-to-date overview of my research, development and educational output.
+#### Manuscripts for closed access publications
+I choose to publish my own activities only under open access, copyleft licences or in the public domain. Sometimes I collaborate with others that do not have that flexibility. You can find the manuscripts for closed access publications in [this archive](https://github.com/gerkovink/published). If you feel you miss something, please drop me a line and I will add the corresponding file.
