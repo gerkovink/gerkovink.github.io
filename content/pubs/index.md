@@ -7,15 +7,11 @@ draft: false
 ---
 
 #### Meet the research team:
-<div style="float: left; width: 50%;">
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
-</div>
-<div style="float: left; width: 50%;">
 - [Thom Volker](https://thomvolker.github.io) [Researcher]
 - [Anaïs Fopma](https://github.com/anaisfopma) [Graduate Student]
-</div>
 
 ---
 
