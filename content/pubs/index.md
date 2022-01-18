@@ -27,7 +27,7 @@ For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf)
 ---
 
 #### Manuscripts for closed access publications
-I choose to publish my own activities only under open access, copyleft licences or in the public domain. Sometimes I collaborate with others that do not have that flexibility. You can find the manuscripts for closed access publications in [this archive](https://github.com/gerkovink/published). If you feel you miss something, please [drop me a line](mailto::G.Vink@uu.nl) and I will add the corresponding file.
+I choose to publish my own activities only under open access, copyleft licences or in the public domain. Sometimes I collaborate with others that do not have that flexibility. You can find the manuscripts for closed access publications in [this archive](https://github.com/gerkovink/published). If you feel you miss something, please [drop me a line](mailto:G.Vink@uu.nl) and I will add the corresponding file.
 
 ---
 
