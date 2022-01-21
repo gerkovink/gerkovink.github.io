@@ -4,21 +4,20 @@ date: 2018-07-26T06:44:20+02:00
 draft: false
 ---
 
-I teach courses about multiple imputation and statistical programming in R to students, companies, statistical professionals and applied researchers. Most of these courses can be considered professional continuing education at a post-graduate level. If you would like to hire me for a private course, contact me for a quote.
+I teach courses about multiple imputation, data science, machine learning and statistical programming in `R` to students, companies, statistical professionals and applied researchers. Most of these courses can be considered professional continuing education at a post-graduate level. If you would like to hire me for a private course, contact me for a quote.
 
-*I can highly recommend the courses I teach on [`R`](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-statistical-programming-with-r) and [`Imputation`](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice) in the [Utrecht University Summerschool](https://www.utrechtsummerschool.nl/courses/ "Come to Utrecht in the summer"); you'll get a comprehensive overview of the state of the art while keeping the course fees very affordable.*
-
+*I can highly recommend the course [Stef](https://www.stefvanbuuren.name) and I teach on  [`Imputation`](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice) in the [Utrecht University Summerschool](https://www.utrechtsummerschool.nl/courses/); you'll get a comprehensive overview of the state of the art while keeping the course fee very affordable.*
 <br>
 
 ---
 
-#### Recurring courses
-* July 2021 – Utrecht University. Data Science: Statistical programming with R. [with Erik-Jan van Kesteren, Duco Veen and Ayoub Bagheri]
-* July 2021 – Utrecht University. [Data Science: Multiple imputation in practice](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice). [with [Stef van Buuren](http://www.stefvanbuuren.nl)]
+#### Recurring post-graduate courses
+* May & November - Erasmus Academy. [Data Science and predictive machine learning](https://www.eur.nl/erasmusacademie/cursus/opleiding-data-science-predictive-machine-learning)
+* July – Utrecht University. [Data Science: Multiple imputation in practice](https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice). [with [Stef van Buuren](http://www.stefvanbuuren.nl)]
 
 ---
 
-#### Selection of past courses
+#### Selection of past post-graduate courses
 - January 2020, Statistical Programming in R. Rijkstrainees Data Science.
 - September 3, 10 and 11, 2019 - Wageningen University. Statistical programming with R.
 - May 7-8, 2019 - Utrecht University. Introduction to programming with R; FSBS only for Faculty and Staff course.
