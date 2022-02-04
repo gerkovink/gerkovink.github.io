@@ -18,6 +18,7 @@ draft: false
 For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
 #### Selection of publications
+- Cai, M., **Vink, G** (2022). A note on imputing squares via polynomial combination approach. Comput Stat. https://doi.org/10.1007/s00180-022-01194-8
 - Volker, T.B.; **Vink, G** (2021). Anony*mice*d Shareable Data: Using `mice` to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. [link](https://doi.org/10.3390/psych3040045)
 - Oberman, H. I., van Buuren, S., & **Vink, G**. (2021). Missing the point: Non-convergence in iterative imputation algorithms. arXiv preprint arXiv:2110.11951. [link](https://arxiv.org/abs/2110.11951)
 - Schouten RM, **Vink G** (2021). The Dance of the Mechanisms: How Observed Information Influences the Validity of Missingness Assumptions. Sociological Methods & Research. 50(3):1243-1258. [link](https://doi.org/10.1177%2F0049124118799376)
@@ -33,7 +34,6 @@ I choose to publish my own activities only under open access, copyleft licences 
 
 #### Selection of submitted/working papers
 - Towards a standardised evaluation of missing data methods. [pdf](https://www.gerkovink.com/published/[working]%20Towards%20a%20standardized%20evaluation%20of%20multiple%20imputation%20routines.pdf)
-- [with Mingyang Cai] A note on imputing squares via polynomial combination approach.
 - [with Mingyang Cai and Stef van Buuren] Multiple imputation for individual causal effects.
 - [with Mingyang Cai and Stef van Buuren] Predictive Mean matching based on Canonical Regression Analysis.
 - [with Mingyang Cai] Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking
