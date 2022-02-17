@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params] # theme parameters
 author = "Gerko Vink" # Author's name.
-description = "" # Site description.
+description = "Gerko Vink's personal website" # Site description.
 keywords = "Gerko Vink, Gerko, Vink, Developer, Statistician" # Site keywords.
 info = "[dark data scientist]" # Author's job title or info.
 avatarURL = "images/gerko_cartoon.png" # Contain the path of the optionnal avatar in the static folder.
@@ -25,7 +25,6 @@ dateFormat = "January 2, 2006"
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
 footercontent = "occasional Bayesian | incidental frequentist | properly uncertain" # Add footer content
-rtl = false
 favicon_16 = "/images/favicon-16x16.png"
 favicon_32 = "/images/favicon-32x32.png"
 # Specify light/dark colorscheme
