@@ -18,6 +18,7 @@ draft: false
 For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
 #### Selection of publications
+- Gopalakrishna G, ter Riet G, **Vink G**, Stoop I, Wicherts JM, et al. (2022) Prevalence of questionable research practices, research misconduct and their potential explanatory factors: A survey among academic researchers in The Netherlands. PLOS ONE 17(2). [link](https://doi.org/10.1371/journal.pone.0263023)
 - Cai, M., **Vink, G** (2022). A note on imputing squares via polynomial combination approach. Comput Stat. [link](https://doi.org/10.1007/s00180-022-01194-8)
 - Volker, T.B.; **Vink, G** (2021). Anony*mice*d Shareable Data: Using `mice` to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. [link](https://doi.org/10.3390/psych3040045)
 - Oberman, H. I., van Buuren, S., & **Vink, G**. (2021). Missing the point: Non-convergence in iterative imputation algorithms. arXiv preprint arXiv:2110.11951. [link](https://arxiv.org/abs/2110.11951)
