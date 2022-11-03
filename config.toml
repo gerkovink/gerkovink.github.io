@@ -63,9 +63,9 @@ name = "Mail me"
 weight = 4
 url = "mailto:G.Vink@uu.nl"
 [[params.social]]
-name = "Twitter"
+name = "Mastodon"
 weight = 5
-url = "https://twitter.com/OkregK"
+url = "https://fosstodon.org/@okreg"
 
 # Menu links
 [[menu.main]]
