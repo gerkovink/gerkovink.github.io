@@ -44,6 +44,8 @@ customSCSS = []
 # Custom JS
 customJS = []
 
+[markup.goldmark.renderer]
+unsafe= true
 
 # Social links
 [[params.social]]
