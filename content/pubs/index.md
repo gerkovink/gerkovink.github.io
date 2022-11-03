@@ -46,4 +46,6 @@ I choose to publish my own activities only under open access, copyleft licences 
 - [with Jihane Cherif] On the statistical properties of combining ANOVAs after multiple imputation.
 - [with Jeroen Pannekoek and Stef van Buuren] Predictive ratio matching imputation of nested compositional data with semicontinuous variables.
 
-[.](<a rel="me" href="https://fosstodon.org/@okreg">Mastodon</a>)<a rel="me" href="https://fosstodon.org/@okreg">Mastodon</a>
+{{< unsafe >}}
+<a rel="me" href="https://fosstodon.org/@okreg">Mastodon</a>
+{{< /unsafe >}}
