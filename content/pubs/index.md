@@ -8,16 +8,20 @@ draft: false
 
 #### Meet the research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
-- [Mingyang Cai](https://www.uu.nl/staff/mcai) [PhD Student]
+- [Mingyang Cai](https://www.uu.nl/staff/mcai) [PostDoc]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
-- [Thom Volker](https://thomvolker.github.io) [Researcher]
-- [Anaïs Fopma](https://github.com/anaisfopma) [Graduate Student]
+- [Thom Volker](https://thomvolker.github.io) [Phd Student - not mine!]
+- [Daniel Anadria](https://github.com/danadria) [Graduate Student]
+- [Ola Dacko](https://github.com/a-dacko) [Graduate Student]
 
 ---
 
 For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
-#### Selection of publications
+#### Selection of *things out there*
+- Muijzer, M., Hoven, C., Frank, L., Vink, G., and Wisse, R. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific reports, 12(1):1–9. [link](https://www.nature.com/articles/s41598-022-22223-y)
+- Cai, M., van Buuren, S., and Vink, G. (2022). How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation. arXiv preprint arXiv:2208.12931. [link](https://doi.org/10.48550/arXiv.2208.12931)
+- Fopma, A., Cai, M., van Buuren, S., and Vink, G. (2022). A blended distance to define” people-like-me”. arXiv preprint arXiv:2207.04650. [link](https://doi.org/10.48550/arXiv.2207.04650)
 - Gopalakrishna G, ter Riet G, **Vink G**, Stoop I, Wicherts JM, et al. (2022) Prevalence of questionable research practices, research misconduct and their potential explanatory factors: A survey among academic researchers in The Netherlands. PLOS ONE 17(2). [link](https://doi.org/10.1371/journal.pone.0263023)
 - Cai, M., **Vink, G** (2022). A note on imputing squares via polynomial combination approach. Comput Stat. [link](https://doi.org/10.1007/s00180-022-01194-8)
 - Volker, T.B.; **Vink, G** (2021). Anony*mice*d Shareable Data: Using `mice` to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. [link](https://doi.org/10.3390/psych3040045)
@@ -41,3 +45,5 @@ I choose to publish my own activities only under open access, copyleft licences 
 - [with Hanne Oberman and Stef van Buuren] Missing the Point: Non-Convergence in Iterative Imputation Algorithms.
 - [with Jihane Cherif] On the statistical properties of combining ANOVAs after multiple imputation.
 - [with Jeroen Pannekoek and Stef van Buuren] Predictive ratio matching imputation of nested compositional data with semicontinuous variables.
+
+<a rel="me" href="https://fosstodon.org/@okreg">Mastodon</a>
