@@ -5,7 +5,7 @@ draft: false
 ---
 
 {{< unsafe >}}
-<div style="float: left; width: 44%;">
+<div style="float: left; width: 45%;">
 <img src = "https://www.gerkovink.com/images/top.jpg" width = 85% />
 </div>
 
