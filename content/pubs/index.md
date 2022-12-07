@@ -11,6 +11,7 @@ draft: false
 - [Mingyang Cai](https://www.uu.nl/staff/mcai) [PostDoc]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
 - [Thom Volker](https://thomvolker.github.io) [Phd Student - not mine!]
+- [Ernst-Paul Swens](https://github.com/Ernst-Paul) [Graduate Student]
 - [Daniel Anadria](https://github.com/danadria) [Graduate Student]
 - [Ola Dacko](https://github.com/a-dacko) [Graduate Student]
 
