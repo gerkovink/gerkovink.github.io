@@ -13,13 +13,15 @@ draft: false
 - [Thom Volker](https://thomvolker.github.io) [Phd Student - not mine!]
 - [Ernst-Paul Swens](https://github.com/Ernst-Paul) [Graduate Student]
 - [Daniel Anadria](https://github.com/danadria) [Graduate Student]
-- [Ola Dacko](https://github.com/a-dacko) [Graduate Student]
+- [Kyuri Park](https://kyurip.github.io) [Graduate Student]
 
 ---
 
 For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
 #### Selection of *things out there*
+- Oberman, H.I. and **Vink, G**. (Accepted). Towards a standardized evaluation of imputation methodology. Biometrical Journal.
+- Cai, M., van Buuren, S., and **Vink, G**. (2023). Joint distribution properties of fully conditional specification under the normal linear model with normal inverse-gamma priors. Scientific Reports, 13(1):1–7. [link](https://www.nature.com/articles/s41598-023-27786-y)
 - Muijzer, M., Hoven, C., Frank, L., **Vink, G**., and Wisse, R. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific reports, 12(1):1–9. [link](https://www.nature.com/articles/s41598-022-22223-y)
 - Cai, M., van Buuren, S., and **Vink, G**. (2022). How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation. arXiv preprint arXiv:2208.12931. [link](https://doi.org/10.48550/arXiv.2208.12931)
 - Fopma, A., Cai, M., van Buuren, S., and **Vink, G**. (2022). A blended distance to define” people-like-me”. arXiv preprint arXiv:2207.04650. [link](https://doi.org/10.48550/arXiv.2207.04650)
@@ -38,14 +40,10 @@ I choose to publish my own activities only under open access, copyleft licences 
 ---
 
 #### Selection of submitted/working papers
-- Towards a standardised evaluation of missing data methods. [pdf](https://www.gerkovink.com/published/[working]%20Towards%20a%20standardized%20evaluation%20of%20multiple%20imputation%20routines.pdf)
 - [with Mingyang Cai and Stef van Buuren] Multiple imputation for individual causal effects.
-- [with Mingyang Cai and Stef van Buuren] Predictive Mean matching based on Canonical Regression Analysis.
-- [with Mingyang Cai] Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking
 - [with Stef van Buuren] The best prediction can be the worst imputation.
 - [with Hanne Oberman and Stef van Buuren] Missing the Point: Non-Convergence in Iterative Imputation Algorithms.
 - [with Jihane Cherif] On the statistical properties of combining ANOVAs after multiple imputation.
-- [with Jeroen Pannekoek and Stef van Buuren] Predictive ratio matching imputation of nested compositional data with semicontinuous variables.
 
 ---
 
