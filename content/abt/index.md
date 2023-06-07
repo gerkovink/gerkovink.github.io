@@ -4,7 +4,6 @@ date: 2018-07-26T06:44:20+02:00
 draft: false
 ---
 
-{{% unsafe %}}
 <div style="float: left; width: 45%;">
 <img src = "https://www.gerkovink.com/images/top.jpg" width = 85% />
 </div>
@@ -15,4 +14,3 @@ draft: false
 I live my life with a wife and two kids, a surfboard and a pair of hiking shoes.
 </p>
 </div>
-{{% unsafe %}}
