@@ -8,19 +8,17 @@ draft: false
 
 #### Meet the research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
-- [Mingyang Cai](https://www.uu.nl/staff/mcai) [PostDoc]
+- [Huma Shehwana](https://www.uu.nl/staff/HShehwana) [Postdoc]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
 - [Thom Volker](https://thomvolker.github.io) [Phd Student - not mine!]
-- [Ernst-Paul Swens](https://github.com/Ernst-Paul) [Graduate Student]
-- [Daniel Anadria](https://github.com/danadria) [Graduate Student]
-- [Kyuri Park](https://kyurip.github.io) [Graduate Student]
+- [Heleen Brüggen](https://heleenbrueggen.github.io) [Graduate Student]
 
 ---
 
 For a more up-to date overview of my publications, see my [CV](../docs/vink.pdf) or my [Google Scholar page](https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&hl=en&oi=ao)
 
 #### Selection of *things out there*
-- Oberman, H.I. and **Vink, G**. (Accepted). Towards a standardized evaluation of imputation methodology. Biometrical Journal.
+- Oberman, H. I., & Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. [link](https://doi.org/10.1002/bimj.202200107)
 - Cai, M., van Buuren, S., and **Vink, G**. (2023). Joint distribution properties of fully conditional specification under the normal linear model with normal inverse-gamma priors. Scientific Reports, 13(1):1–7. [link](https://www.nature.com/articles/s41598-023-27786-y)
 - Muijzer, M., Hoven, C., Frank, L., **Vink, G**., and Wisse, R. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific reports, 12(1):1–9. [link](https://www.nature.com/articles/s41598-022-22223-y)
 - Cai, M., van Buuren, S., and **Vink, G**. (2022). How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation. arXiv preprint arXiv:2208.12931. [link](https://doi.org/10.48550/arXiv.2208.12931)
