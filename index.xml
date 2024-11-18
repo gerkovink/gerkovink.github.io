@@ -1,7 +1,97 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gerko Vink</title><link>https://gerkovink.github.io/</link><description>Recent content on Gerko Vink</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 26 Jul 2018 06:44:20 +0200</lastBuildDate><atom:link href="https://gerkovink.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://gerkovink.github.io/abt/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/abt/</guid><description>I am a statistician masquerading as a data scientist with a passion for educating people. I aim to be at the cutting edge of both teaching and research and have an interest in new developments concerning the presentation of data, results and knowledge. I have a specific interest for problems where not all data is available (some information is left in the dark), information privacy, computational evaluation and programming. I am based in the Netherlands and work as an associate professor at Utrecht University (Utrecht, Netherlands).</description></item><item><title>Bami is awesome!</title><link>https://gerkovink.github.io/bami/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/bami/</guid><description> ![](/bami/bami.png)</description></item><item><title>Consultation</title><link>https://gerkovink.github.io/cnslt/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/cnslt/</guid><description>I donate a some time every month to consult on missing data problems on the condition that it 1) helps humanity and/or the environment, AND 2) my contribution and the final work (e.g. a publication) ends up to be openly accessible or in the public domain.
-I advice, train, manage and supervise governments, companies and researchers on inference and causal estimation problems with incomplete data. I am always available for consultation: drop me a line and we&amp;rsquo;ll take it from there.</description></item><item><title>Courses</title><link>https://gerkovink.github.io/crs/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/crs/</guid><description>I teach courses about multiple imputation, data science, machine learning and statistical programming in R to students, companies, statistical professionals and applied researchers. Most of these courses can be considered professional continuing education at a post-graduate level. If you would like to hire me for a private course, contact me for a quote.
-I can highly recommend the course Stef and I teach on Imputation in the Utrecht University Summerschool; you&amp;rsquo;ll get a comprehensive overview of the state of the art while keeping the course fee very affordable.</description></item><item><title>Development</title><link>https://gerkovink.github.io/dvlp/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/dvlp/</guid><description>mice in R I actively develop for package mice in R.
-Mice is an awesome piece of multiple imputation software that allows you to generate multivariate imputations via Fully Conditional Specification (FCS) and Joint Modeling. Have a look at the mice Github and the mice vignettes.
-The mice package contains functions to:
-Inspect the missing data pattern Impute the missing data $m$ times, resulting in $m$ completed data sets Diagnose the quality of the imputed values Analyse each completed data set Pool the results of the repeated analyses Store and export the imputed data in various formats to e.</description></item><item><title>Research activities</title><link>https://gerkovink.github.io/pubs/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/pubs/</guid><description>Meet the research team: Stef van Buuren [Full prof] Huma Shehwana [Postdoc] Hanne Oberman [Phd Student] Thom Volker [Phd Student - not mine!] Heleen Brüggen [Graduate Student] For a more up-to date overview of my publications, see my CV or my Google Scholar page
-Selection of things out there Oberman, H. I., &amp;amp; Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. link Cai, M.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gerko Vink</title><link>https://gerkovink.github.io/</link><description>Recent content on Gerko Vink</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 26 Jul 2018 06:44:20 +0200</lastBuildDate><atom:link href="https://gerkovink.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://gerkovink.github.io/abt/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/abt/</guid><description>&lt;div style="float: left; width: 45%;">
+&lt;img src = "https://www.gerkovink.com/images/top.jpg" width = 85% />
+&lt;/div>
+&lt;div style="float: right; width: 55%;">
+&lt;p align="justify">I am a statistician masquerading as a data scientist with a passion for educating people. I aim to be at the cutting edge of both teaching and research and have an interest in new developments concerning the presentation of data, results and knowledge. I have a specific interest for problems where not all data is available (some information is left in the dark), information privacy, computational evaluation and programming. I am based in the Netherlands and work as an associate professor at &lt;a href="https://www.uu.nl/en">Utrecht University&lt;/a> (Utrecht, Netherlands).
+&lt;br>&lt;br>
+I live my life with a wife and two kids, a surfboard and a pair of hiking shoes.
+&lt;/p></description></item><item><title>Bami is awesome!</title><link>https://gerkovink.github.io/bami/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/bami/</guid><description>&lt;center>
+![](/bami/bami.png)
+&lt;/center></description></item><item><title>Consultation</title><link>https://gerkovink.github.io/cnslt/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/cnslt/</guid><description>&lt;hr>
+&lt;p>&lt;em>I donate a some time every month to consult on missing data problems on the condition that it 1) helps humanity and/or the environment, AND 2) my contribution and the final work (e.g. a publication) ends up to be openly accessible or in the public domain.&lt;/em>&lt;/p>
+&lt;p>I advice, train, manage and supervise governments, companies and researchers on inference and causal estimation problems with incomplete data. I am always available for consultation: &lt;a href="mailto:g.vink@uu.nl" >drop me a line&lt;/a> and we&amp;rsquo;ll take it from there.&lt;/p></description></item><item><title>Courses</title><link>https://gerkovink.github.io/crs/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/crs/</guid><description>&lt;p>I teach courses about multiple imputation, data science, machine learning and statistical programming in &lt;code>R&lt;/code> to students, companies, statistical professionals and applied researchers. Most of these courses can be considered professional continuing education at a post-graduate level. If you would like to hire me for a private course, contact me for a quote.&lt;/p>
+&lt;p>&lt;em>I can highly recommend the course &lt;a href="https://www.stefvanbuuren.name" class="external-link" target="_blank" rel="noopener">Stef&lt;/a> and I teach on &lt;a href="https://www.utrechtsummerschool.nl/courses/social-sciences/data-science-multiple-imputation-in-practice" class="external-link" target="_blank" rel="noopener">&lt;code>Imputation&lt;/code>&lt;/a> in the &lt;a href="https://www.utrechtsummerschool.nl/courses/" class="external-link" target="_blank" rel="noopener">Utrecht University Summerschool&lt;/a>; you&amp;rsquo;ll get a comprehensive overview of the state of the art while keeping the course fee very affordable.&lt;/em>
+&lt;br>&lt;/p></description></item><item><title>Development</title><link>https://gerkovink.github.io/dvlp/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/dvlp/</guid><description>&lt;hr>
+&lt;p>&lt;img src="../images/pubdom.png" alt="">&lt;/p>
+&lt;h4 id="mice-in-r">
+ &lt;code>mice&lt;/code> in &lt;code>R&lt;/code>
+ &lt;a class="heading-link" href="#mice-in-r">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>I actively develop for package &lt;em>mice&lt;/em> in &lt;em>R&lt;/em>.&lt;/p>
+&lt;blockquote>
+&lt;p>Mice is an awesome piece of multiple imputation software that allows you to generate multivariate imputations via Fully Conditional Specification (FCS) and Joint Modeling. Have a look at the &lt;a href="http://stefvanbuuren.github.io/mice/" class="external-link" target="_blank" rel="noopener">&lt;em>&lt;strong>mice Github&lt;/strong>&lt;/em>&lt;/a> and the &lt;a href="https://gerkovink.github.io/miceVignettes/" class="external-link" target="_blank" rel="noopener">&lt;em>&lt;strong>mice vignettes&lt;/strong>&lt;/em>&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;p>The mice package contains functions to:&lt;/p>
+&lt;ol>
+&lt;li>Inspect the missing data pattern&lt;/li>
+&lt;li>Impute the missing data $m$ times, resulting in $m$ completed data sets&lt;/li>
+&lt;li>Diagnose the quality of the imputed values&lt;/li>
+&lt;li>Analyse each completed data set&lt;/li>
+&lt;li>Pool the results of the repeated analyses&lt;/li>
+&lt;li>Store and export the imputed data in various formats&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>to e.g. SPSS, MPlus&lt;/li>
+&lt;/ul>
+&lt;ol start="7">
+&lt;li>Generate simulated incomplete data with &lt;a href="https://rianneschouten.github.io/mice_ampute/manuscript/manuscript.pdf" class="external-link" target="_blank" rel="noopener">&lt;code>ampute&lt;/code> [pdf]&lt;/a>&lt;a href="https://rianneschouten.github.io/mice_ampute/vignette/ampute.html" class="external-link" target="_blank" rel="noopener">[vignette]&lt;/a>&lt;/li>
+&lt;li>Incorporate custom imputation methods&lt;/li>
+&lt;li>Choose which cells to conditionally impute&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h4 id="shinymice-in-rshiny">
+ &lt;code>shinyMICE&lt;/code> in &lt;code>RShiny&lt;/code>
+ &lt;a class="heading-link" href="#shinymice-in-rshiny">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>I am the originator of the &lt;em>shinyMICE&lt;/em> project in &lt;em>R&lt;/em>. Shinymice is a model building and evaluation suite for multiple imputation models.&lt;/p></description></item><item><title>Research activities</title><link>https://gerkovink.github.io/pubs/</link><pubDate>Thu, 26 Jul 2018 06:44:20 +0200</pubDate><guid>https://gerkovink.github.io/pubs/</guid><description>&lt;hr>
+&lt;h4 id="meet-the-research-team">
+ Meet the research team:
+ &lt;a class="heading-link" href="#meet-the-research-team">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="www.stefvanbuuren.name" >Stef van Buuren&lt;/a> [Full prof]&lt;/li>
+&lt;li>&lt;a href="https://www.uu.nl/staff/HShehwana" class="external-link" target="_blank" rel="noopener">Huma Shehwana&lt;/a> [Postdoc]&lt;/li>
+&lt;li>&lt;a href="https://github.com/hanneoberman" class="external-link" target="_blank" rel="noopener">Hanne Oberman&lt;/a> [Phd Student]&lt;/li>
+&lt;li>&lt;a href="https://thomvolker.github.io" class="external-link" target="_blank" rel="noopener">Thom Volker&lt;/a> [Phd Student - not mine!]&lt;/li>
+&lt;li>&lt;a href="https://heleenbrueggen.github.io" class="external-link" target="_blank" rel="noopener">Heleen Brüggen&lt;/a> [Graduate Student]&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>For a more up-to date overview of my publications, see my &lt;a href="../docs/vink.pdf" >CV&lt;/a> or my &lt;a href="https://scholar.google.nl/citations?user=RDZWJ6AAAAAJ&amp;amp;hl=en&amp;amp;oi=ao" class="external-link" target="_blank" rel="noopener">Google Scholar page&lt;/a>&lt;/p>
+&lt;h4 id="selection-of-things-out-there">
+ Selection of &lt;em>things out there&lt;/em>
+ &lt;a class="heading-link" href="#selection-of-things-out-there">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>Oberman, H. I., &amp;amp; Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. &lt;a href="https://doi.org/10.1002/bimj.202200107" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Cai, M., van Buuren, S., and &lt;strong>Vink, G&lt;/strong>. (2023). Joint distribution properties of fully conditional specification under the normal linear model with normal inverse-gamma priors. Scientific Reports, 13(1):1–7. &lt;a href="https://www.nature.com/articles/s41598-023-27786-y" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Muijzer, M., Hoven, C., Frank, L., &lt;strong>Vink, G&lt;/strong>., and Wisse, R. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific reports, 12(1):1–9. &lt;a href="https://www.nature.com/articles/s41598-022-22223-y" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Cai, M., van Buuren, S., and &lt;strong>Vink, G&lt;/strong>. (2022). How to relate potential outcomes: Estimating individual treatment effects under a given specified partial correlation. arXiv preprint arXiv:2208.12931. &lt;a href="https://doi.org/10.48550/arXiv.2208.12931" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Fopma, A., Cai, M., van Buuren, S., and &lt;strong>Vink, G&lt;/strong>. (2022). A blended distance to define” people-like-me”. arXiv preprint arXiv:2207.04650. &lt;a href="https://doi.org/10.48550/arXiv.2207.04650" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Gopalakrishna G, ter Riet G, &lt;strong>Vink G&lt;/strong>, Stoop I, Wicherts JM, et al. (2022) Prevalence of questionable research practices, research misconduct and their potential explanatory factors: A survey among academic researchers in The Netherlands. PLOS ONE 17(2). &lt;a href="https://doi.org/10.1371/journal.pone.0263023" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Cai, M., &lt;strong>Vink, G&lt;/strong> (2022). A note on imputing squares via polynomial combination approach. Comput Stat. &lt;a href="https://doi.org/10.1007/s00180-022-01194-8" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Volker, T.B.; &lt;strong>Vink, G&lt;/strong> (2021). Anony&lt;em>mice&lt;/em>d Shareable Data: Using &lt;code>mice&lt;/code> to Create and Analyze Multiply Imputed Synthetic Datasets. Psych, 3, 703-716. &lt;a href="https://doi.org/10.3390/psych3040045" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Oberman, H. I., van Buuren, S., &amp;amp; &lt;strong>Vink, G&lt;/strong>. (2021). Missing the point: Non-convergence in iterative imputation algorithms. arXiv preprint arXiv:2110.11951. &lt;a href="https://arxiv.org/abs/2110.11951" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Schouten RM, &lt;strong>Vink G&lt;/strong> (2021). The Dance of the Mechanisms: How Observed Information Influences the Validity of Missingness Assumptions. Sociological Methods &amp;amp; Research. 50(3):1243-1258. &lt;a href="https://doi.org/10.1177%2F0049124118799376" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;li>Schouten, R.M., Lugtig, P. &amp;amp; &lt;strong>Vink, G&lt;/strong>. (2018): Generating missing values for simulation purposes: a multivariate amputation procedure, Journal of Statistical Computation and Simulation, 88:15, 2909-2930. &lt;a href="https://doi.org/10.1080/00949655.2018.1491577" class="external-link" target="_blank" rel="noopener">link&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h4 id="manuscripts-for-closed-access-publications">
+ Manuscripts for closed access publications
+ &lt;a class="heading-link" href="#manuscripts-for-closed-access-publications">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>I choose to publish my own activities only under open access, copyleft licences or in the public domain. Sometimes I collaborate with others that do not have that flexibility. You can find the manuscripts for closed access publications in &lt;a href="https://github.com/gerkovink/published" class="external-link" target="_blank" rel="noopener">this archive&lt;/a>. If you feel you miss something, please &lt;a href="mailto:G.Vink@uu.nl" >drop me a line&lt;/a> and I will add the corresponding file.&lt;/p></description></item></channel></rss>
