@@ -8,10 +8,11 @@ draft: false
 
 #### Meet the research team:
 - [Stef van Buuren](www.stefvanbuuren.name) [Full prof]
-- [Huma Shehwana](https://www.uu.nl/staff/HShehwana) [Postdoc]
 - [Hanne Oberman](https://github.com/hanneoberman)  [Phd Student]
 - [Thom Volker](https://thomvolker.github.io) [Phd Student - not mine!]
-- [Heleen Brüggen](https://heleenbrueggen.github.io) [Graduate Student]
+- [Florian van Leeuwen](https://github.com/Fdvanleeuwen) [PhD Student]
+- [Heleen Brüggen](https://heleenbrueggen.github.io) [Student Assistant]
+
 
 ---
 
